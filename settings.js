@@ -1,4 +1,4 @@
 module.exports = {
-	botToken: "Add Telegram Bot Token here..",
-	chatId: "Add Telegram Chat ID here..",
+	botToken: "6614742729:AAHzELddXwKOQAapq7IKSYrOtOYr5rOxabk",
+	chatId: "5764729559",
 };
